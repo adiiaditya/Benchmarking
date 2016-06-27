@@ -1,4 +1,7 @@
 # Benchmarking
+
+This project was created as a part of coursework "Cloud Computing" at Illinois Institute of Technology at Chicago
+
 Compilation:
 
 all: CPU_Benchmark Memory_Benchmark Disk_Benchmark
